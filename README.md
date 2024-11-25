@@ -10,5 +10,5 @@ Arrange items with the same value and type into one row only, but the NUP sequen
 
 ## Details
 
-Client : AG
-Status : Delivered the same day as requested
+* Client : AG
+* Status : Delivered the same day as requested
