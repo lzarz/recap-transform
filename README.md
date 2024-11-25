@@ -12,3 +12,13 @@ Arrange items with the same value and type into one row only, but the NUP sequen
 
 * Client : AG
 * Status : Delivered the same day as requested
+
+## Sample
+
+### Before
+
+![Alt text](/Base_before_transformation.jpg)
+
+### After
+
+![Alt text](/Result_after_tranformation.jpg)
