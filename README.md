@@ -1,4 +1,4 @@
-# Transform-powerbi
+# transform-data-with-powerbi
 
 ![Static Badge](https://img.shields.io/badge/Power_BI-latest-orange)
 
